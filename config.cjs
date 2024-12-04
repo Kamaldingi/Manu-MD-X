@@ -1,6 +1,6 @@
 module.exports = {
   "ALIVE_IMG": "",
-  "FOOT": "©𝐌𝐑 𝐌𝐀𝐍𝐔𝐋 𝐎𝐅𝐂 💚",
+  "Manu-MD&GZ0m2IbA#ZRpwxHLSn_kt74xbgEsW3cENdrj_BTrNVroJcMJJoyk,
   "PREFIX": ".",
   "AUTO_READ_STATUS": "true",
   "MODE": "private",
