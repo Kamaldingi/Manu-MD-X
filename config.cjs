@@ -1,6 +1,6 @@
 module.exports = {
   "ALIVE_IMG": "",
-  "Manu-MD&GZ0m2IbA#ZRpwxHLSn_kt74xbgEsW3cENdrj_BTrNVroJcMJJoyk,
+  "Manu-MD&Td0VhKTT#geHluHd_eVpw9POv1riUB6sgdx5-34HaDOzHY6yixks,
   "PREFIX": ".",
   "AUTO_READ_STATUS": "true",
   "MODE": "private",
